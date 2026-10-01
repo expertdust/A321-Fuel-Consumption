@@ -1,0 +1,13 @@
+# Raw and generated datasets
+/data/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project metadata
+.Rproj.user/
+
+# Optional local logs
+*.log
