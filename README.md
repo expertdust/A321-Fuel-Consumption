@@ -2,7 +2,7 @@
 
 ![R](https://img.shields.io/badge/Language-R-blue.svg)
 ![Course](https://img.shields.io/badge/edX-HarvardX%20Data%20Science-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 This repository contains the final R project submission for the **HarvardX/edX Data Science Professional Certificate** (*Choose Your Own Project* assignment). The project focuses on predicting fuel consumption and analyzing fuel efficiency during the cruise phase for Airbus A321 flights.
 
@@ -89,4 +89,4 @@ Due to the size of the flight trajectory archive, ensure your system meets the f
 ---
 
 ## 📜 License
-This project is open-source and licensed under the [MIT License](LICENSE).
+This project is open-source and licensed under the [Apache License 2.0](LICENSE).
